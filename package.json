@@ -1,0 +1,15 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "API simples para mostrar o uso do Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
